@@ -1,0 +1,8 @@
+My process for creating my picture was in a way, simple. I first found the coordinates to which I needed to place everything so I could create the exact placemnt of the "Hi" part.
+Then, I lined up the StrokeRectangles to be perfectly aligned with the basic fill shapes to look really cool.
+Finally, I made a circle for my fabulous sun and planned out my sun's rays.
+This was the hardest part for me because I couldn't figure out how to diagonally place the last ray to make the sun look great.
+Therefore, I just adjusted the coordinates and made two rectangles to make it look like it was diagonal, but it is not.
+I also originally thought of making the "Hi" portion and leaving it like that, however I wanted to challenge myself with the addition of the sun.
+I learned to better understand what methods truly are and the great power of them. I also learned that the origin of the canvas happened to be located in the top-left corner, so I had to reverse everything.
+All in all, I'm glad I was able to partake in this experience of learning about the great power of JavaFX and I would love to do it again.
