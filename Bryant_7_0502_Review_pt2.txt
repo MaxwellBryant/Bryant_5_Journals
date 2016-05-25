@@ -1,0 +1,21 @@
+1. An array is something that can make a grid of sorts in which you can place objects at specified coordinates.
+
+2. String[5] arrayExample = new Array();
+
+3. arrayExample[0][1];
+
+4. arrayExample[0][1][2];
+
+5. arrayExample[2] = "I'm a walrus";	// This selects the third slot because computers count from zero, and makes the string say, "I'm a walrus".
+
+6. while (booleanOfSomeSort) {}
+
+7. I am using while loops in my game because if the player has not lost or won, the map needs to be continually generated.
+
+8. You can call your game from main by typing the name of the method and parenthesis. Example: MethodName();
+
+9. It is recommended so that if someone were to capitalize the movement command, it would break without a .toLowerCase();
+
+10. You can easily check for intersection from didfferent methods. Just use static variables for the coordinates and write if statements. This is great because of neatness and so your game doesn't break.
+
+11. If you make your variables static, you can pass values to your methods. Well, this system is used for efficientcy and acsessible use.
